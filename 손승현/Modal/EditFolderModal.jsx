@@ -1,4 +1,4 @@
-import "../../index.css";
+import "../../index.css"; 
 const CLOSE_BUTTON = "images/modalClose.png";
 
 const EditFolderModal = ({ isOpen, closeModal }) => {
